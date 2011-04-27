@@ -1,3 +1,3 @@
-# Twenty Ten child theme base
+# Canvas child theme template
 
 Not much to say here right now...

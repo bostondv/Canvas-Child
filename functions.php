@@ -1,5 +1,5 @@
 <?php
-/* Our custom functions.php file for putting is hooks and other goodness
+/* Our custom functions.php file for adding hooks and other goodness
  * Customize to your liking
  */
 
